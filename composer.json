@@ -1,0 +1,17 @@
+{
+    "name": "test-package/test-package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Hussain"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
